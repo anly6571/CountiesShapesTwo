@@ -4,7 +4,7 @@ import * as _ from "lodash";
 
 var w = 900;
 var h = 700;
-
+//path
 let petalPath = "M 0,0 C -10, -10 -10, -40 0, -50 C 10, -40 10, -10, 0,0 ";
 
 var svg = d3
